@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with: all the things.  
 - 📫 How to reach me: htwalden@gmail.com or linkedin.com/in/hunter-walden-24a46222b
 - 😄 Pronouns: he/his
-- My skills: python, numpy, pandas, matplotlib, seaborn, (and more to come)
+- My skills: python, numpy, pandas, matplotlib, Dash, plotly, SQL, MongoDB, SciKit Learn
